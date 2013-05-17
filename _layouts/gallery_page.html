@@ -1,0 +1,27 @@
+---
+layout: page
+---
+<style TYPE="text/css">
+.gallery-image-wrapper {
+  max-width: 100%;
+  margin: 1em;
+  position: relative;
+  text-align: center;
+  clear: both;
+  margin-bottom: 2.4em;
+}
+.gallery-image {
+  margin: auto;
+  max-width: 100%;
+}
+</style>
+{% for image in page.images %}
+  <div class="gallery-image-wrapper">
+      <!-- <a name="{{ image }}"></a> -->
+      <a href="{{ image }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
+          <img class="gallery-image" src="thumbs/{{ image }}" />
+      </a>
+  </div>
+{% endfor %}
+
+<a href="/photos/">&laquo; Back to photos</a>

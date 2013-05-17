@@ -1,0 +1,12 @@
+---
+layout: page
+---
+{% for gallery in page.galleries %}
+<div style="width: 100%; text-align: center; padding: 1em 0 4em 0;">
+    <a href="/photos/{{ gallery['gallery'] }}/">
+        <img style="max-width: 100%;" src="/photos/{{ gallery['gallery'] }}/thumbs/{{ gallery['best_image'] }}">
+    </a>
+    <h3><a href="/photos/{{ gallery['gallery'] }}/">{{ gallery["name"] }}</a></h3>
+    {{ gallery["images"] | size }} images
+</div>
+{% endfor %}
