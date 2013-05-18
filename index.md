@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Discover Portland
-tagline: through a camera lens
+title: Portland, Unfiltered
 ---
 {% include JB/setup %}
 
@@ -11,9 +10,25 @@ tagline: through a camera lens
   {% endfor %}
 </ul>
 
-
+<div class="row-fluid">
   <div class="span12">
     
+<div style="width: 100%; text-align: center; padding: 1em 0 4em 0;">
+    <a href="/photos/slice_of_life_-_oldtown,_chinatown/">
+        <img style="max-width: 100%;" src="/photos/slice_of_life_-_oldtown,_chinatown/thumbs/venue_126.jpg">
+    </a>
+    <h3><a href="/photos/slice_of_life_-_oldtown,_chinatown/">Slice Of Life - Oldtown, Chinatown</a></h3>
+    11 images
+</div>
+
+<div style="width: 100%; text-align: center; padding: 1em 0 4em 0;">
+    <a href="/photos/choose_your_own_adventafilter/">
+        <img style="max-width: 100%;" src="/photos/choose_your_own_adventafilter/thumbs/skyward_bound_xpro.jpg">
+    </a>
+    <h3><a href="/photos/choose_your_own_adventafilter/">Choose Your Own Adventafilter</a></h3>
+    24 images
+</div>
+
 <div style="width: 100%; text-align: center; padding: 1em 0 4em 0;">
     <a href="/photos/high_dynamic_range/">
         <img style="max-width: 100%;" src="/photos/high_dynamic_range/thumbs/the_dock_hdr.jpg">
@@ -27,7 +42,15 @@ tagline: through a camera lens
         <img style="max-width: 100%;" src="/photos/miscellaneous/thumbs/window_through_time.jpg">
     </a>
     <h3><a href="/photos/miscellaneous/">Miscellaneous</a></h3>
-    5 images
+    6 images
+</div>
+
+<div style="width: 100%; text-align: center; padding: 1em 0 4em 0;">
+    <a href="/photos/around_town_-_portland,_oregon/">
+        <img style="max-width: 100%;" src="/photos/around_town_-_portland,_oregon/thumbs/this_old_house.jpg">
+    </a>
+    <h3><a href="/photos/around_town_-_portland,_oregon/">Around Town - Portland, Oregon</a></h3>
+    15 images
 </div>
 
 <div style="width: 100%; text-align: center; padding: 1em 0 4em 0;">
@@ -36,22 +59,6 @@ tagline: through a camera lens
     </a>
     <h3><a href="/photos/flowers_and_trees_of_portland/">Flowers And Trees Of Portland</a></h3>
     5 images
-</div>
-
-<div style="width: 100%; text-align: center; padding: 1em 0 4em 0;">
-    <a href="/photos/around_town_-_portland,_oregon/">
-        <img style="max-width: 100%;" src="/photos/around_town_-_portland,_oregon/thumbs/this_old_house.jpg">
-    </a>
-    <h3><a href="/photos/around_town_-_portland,_oregon/">Around Town - Portland, Oregon</a></h3>
-    13 images
-</div>
-
-<div style="width: 100%; text-align: center; padding: 1em 0 4em 0;">
-    <a href="/photos/art_fills_the_void/">
-        <img style="max-width: 100%;" src="/photos/art_fills_the_void/thumbs/art_fills_the_void.jpg">
-    </a>
-    <h3><a href="/photos/art_fills_the_void/">Art Fills The Void</a></h3>
-    9 images
 </div>
 
 <div style="width: 100%; text-align: center; padding: 1em 0 4em 0;">
@@ -67,7 +74,15 @@ tagline: through a camera lens
         <img style="max-width: 100%;" src="/photos/portland,_oregon/thumbs/bridge_over_calm_waters.jpg">
     </a>
     <h3><a href="/photos/portland,_oregon/">Portland, Oregon</a></h3>
-    11 images
+    13 images
+</div>
+
+<div style="width: 100%; text-align: center; padding: 1em 0 4em 0;">
+    <a href="/photos/art_fills_the_void/">
+        <img style="max-width: 100%;" src="/photos/art_fills_the_void/thumbs/art_fills_the_void.jpg">
+    </a>
+    <h3><a href="/photos/art_fills_the_void/">Art Fills The Void</a></h3>
+    10 images
 </div>
 
 <div style="width: 100%; text-align: center; padding: 1em 0 4em 0;">
@@ -78,4 +93,6 @@ tagline: through a camera lens
     9 images
 </div>
 
+
+  </div>
 </div>
