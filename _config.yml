@@ -1,15 +1,16 @@
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title
+#permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:title
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "photodex.rb", "photobuild.rb"]
 pygments: true
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
 title : Shanti Braford Photography
-tagline: capture the moment
+tagline: "Portland, Unfiltered"
 author :
   name : Shanti Braford
   email : shantibraford@gmail.com

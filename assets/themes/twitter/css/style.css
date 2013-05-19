@@ -63,3 +63,21 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+div.index-photo {
+  max-width: 330px;
+  float: left;
+  margin: 6px;
+}
+/* Media Queries ----------- */
+@media only screen 
+and (min-width : 1224px) {
+  /* Styles */
+  .container-narrow {
+    max-width: 1000px; }
+
+  div.index-photo {
+    max-width: 450px !important;
+    margin: 16px !important; }
+
+}
