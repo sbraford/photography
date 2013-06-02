@@ -20,7 +20,7 @@ title: Home
 <a href="/photos/high_dynamic_range/tracks_n_trains_hdr.jpg" title="Tracks N Trains HDR"><img src="/photos/high_dynamic_range/thumbs/tracks_n_trains_hdr.jpg" alt="Tracks N Trains HDR" /></a>
 </div>
 <div class="index-photo">
-<a href="/photos/industrial_southeast_portland/eastside_industrial_overpass.png" title="Eastside Industrial Overpass"><img src="/photos/industrial_southeast_portland/thumbs/eastside_industrial_overpass.png" alt="Eastside Industrial Overpass" /></a>
+<a href="/photos/industrial_southeast_portland/eastside_industrial_overpass.jpg" title="Eastside Industrial Overpass"><img src="/photos/industrial_southeast_portland/thumbs/eastside_industrial_overpass.jpg" alt="Eastside Industrial Overpass" /></a>
 </div>
 <div class="index-photo">
 <a href="/photos/industrial_southeast_portland/tracks_north.jpg" title="Tracks North"><img src="/photos/industrial_southeast_portland/thumbs/tracks_north.jpg" alt="Tracks North" /></a>
