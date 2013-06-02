@@ -80,9 +80,6 @@ choose_your_own_adventafilter/chow_mein.jpg:
 choose_your_own_adventafilter/chow_mein_bw.jpg:
   :name: Chow Mein Black and White
   :date: '2013-05-18'
-choose_your_own_adventafilter/chow_mein_lomia.jpg:
-  :name: Chow Mein Lomia
-  :date: '2013-05-18'
 choose_your_own_adventafilter/chow_mein_xpro.jpg:
   :name: Chow Mein Xpro
   :date: '2013-05-18'
@@ -119,14 +116,8 @@ choose_your_own_adventafilter/passport_photos.jpg:
 choose_your_own_adventafilter/passport_photos_betty.jpg:
   :name: Passport Photos Betty
   :date: '2013-05-18'
-choose_your_own_adventafilter/passport_photos_lomia.jpg:
-  :name: Passport Photos Lomia
-  :date: '2013-05-18'
 choose_your_own_adventafilter/passport_photos_nikolai.jpg:
   :name: Passport Photos Nikolai
-  :date: '2013-05-18'
-choose_your_own_adventafilter/passport_photos_xpro.jpg:
-  :name: Passport Photos Xpro
   :date: '2013-05-18'
 choose_your_own_adventafilter/scaffold.jpg:
   :name: Scaffold
@@ -314,3 +305,123 @@ sweet_rides_and_mighty_machines/vintage_volvo.jpg:
 sweet_rides_and_mighty_machines/vw_karmann_ghia.jpg:
   :name: Vw Karmann Ghia
   :date: '2013-05-08'
+around_town_-_portland,_oregon/sidewalk_holgate.jpg:
+  :name: Sidewalk Holgate
+  :date: '2013-05-20'
+choose_your_own_adventafilter/chow_mein_lomia.jpg:
+  :name: Chow Mein Lomia
+  :date: '2013-05-18'
+high_dynamic_range/a1_bird_bath_hdr.jpg:
+  :name: A1 Bird Bath HDR
+  :date: '2013-05-20'
+high_dynamic_range/church_gate.jpg:
+  :name: Church Gate
+  :date: '2013-05-20'
+high_dynamic_range/portland_outdoor_store_hdr.jpg:
+  :name: Portland Outdoor Store HDR
+  :date: '2013-05-20'
+miscellaneous/church_parking.jpg:
+  :name: Church Parking
+  :date: '2013-05-20'
+miscellaneous/corinthian_one.jpg:
+  :name: Corinthian One
+  :date: '2013-05-19'
+miscellaneous/novara.jpg:
+  :name: Novara
+  :date: '2013-05-20'
+people/extras.jpg:
+  :name: Extras
+  :date: '2013-05-19'
+portland,_oregon/panorama_at_grand_central_bowl.jpg:
+  :name: Panorama At Grand Central Bowl
+  :date: '2013-05-20'
+portland,_oregon/willamette_serene.jpg:
+  :name: Willamette Serene
+  :date: '2013-05-20'
+around_town_-_portland,_oregon/division_and_cesar_chavez.jpg:
+  :name: Division And Cesar Chavez
+  :date: '2013-05-28'
+around_town_-_portland,_oregon/division_sky.jpg:
+  :name: Division Sky
+  :date: '2013-06-01'
+around_town_-_portland,_oregon/hawthorne_theatre_sign_hdr.jpg:
+  :name: Hawthorne Theatre Sign HDR
+  :date: '2013-05-28'
+around_town_-_portland,_oregon/parrish.jpg:
+  :name: Parrish
+  :date: '2013-05-28'
+art_fills_the_void/at_the_end_of_the_universe.png:
+  :name: At The End Of The Universe
+  :date: '2013-06-01'
+art_fills_the_void/hawthorne_ave_sculpture.jpg:
+  :name: Hawthorne Ave Sculpture
+  :date: '2013-06-01'
+flowers_and_trees_of_portland/kenilworth_city_park.jpg:
+  :name: Kenilworth City Park
+  :date: '2013-05-28'
+flowers_and_trees_of_portland/tanner_springs_tilt.jpg:
+  :name: Tanner Springs Tilt
+  :date: '2013-05-18'
+flowers_and_trees_of_portland/trees_on_sky.jpg:
+  :name: Trees On Sky
+  :date: '2013-05-28'
+high_dynamic_range/bear_affair_hdr.jpg:
+  :name: Bear Affair HDR
+  :date: '2013-06-01'
+high_dynamic_range/ferris_wheel_hdr.jpg:
+  :name: Ferris Wheel HDR
+  :date: '2013-05-28'
+high_dynamic_range/tracks_n_trains_hdr.jpg:
+  :name: Tracks N Trains HDR
+  :date: '2013-06-01'
+industrial_southeast_portland/eastside_industrial_overpass.png:
+  :name: Eastside Industrial Overpass
+  :date: '2013-06-01'
+industrial_southeast_portland/tracks_north.jpg:
+  :name: Tracks North
+  :date: '2013-06-01'
+industrial_southeast_portland/traintracks.jpg:
+  :name: Traintracks
+  :date: '2013-06-01'
+industrial_southeast_portland/under_the_bridge.jpg:
+  :name: Under The Bridge
+  :date: '2013-06-01'
+miscellaneous/hoop_dreams.jpg:
+  :name: Hoop Dreams
+  :date: '2013-05-28'
+people/sk8_life.jpg:
+  :name: Sk8 Life
+  :date: '2013-06-01'
+people/sk8_life_2.jpg:
+  :name: Sk8 Life 2
+  :date: '2013-06-01'
+people/suppertime_for_pigeons.jpg:
+  :name: Suppertime For Pigeons
+  :date: '2013-05-29'
+portland,_oregon/bagdad_theatre.jpg:
+  :name: Bagdad Theatre
+  :date: '2013-05-28'
+portland,_oregon/overlooking_pioneer.jpg:
+  :name: Overlooking Pioneer
+  :date: '2013-05-23'
+portland,_oregon/pioneer_building.jpg:
+  :name: Pioneer Building
+  :date: '2013-05-29'
+portland_waterfront/boaterday.jpg:
+  :name: Boaterday
+  :date: '2013-06-01'
+portland_waterfront/north_pier.jpg:
+  :name: North Pier
+  :date: '2013-06-01'
+portland_waterfront/northeast_hawthorne_bridge_panorama.jpg:
+  :name: Northeast Hawthorne Bridge Panorama
+  :date: '2013-06-01'
+portland_waterfront/waterfront_fountain.jpg:
+  :name: Waterfront Fountain
+  :date: '2013-05-28'
+portland_waterfront/willamette_panorama_hdr.jpg:
+  :name: Willamette Panorama HDR
+  :date: '2013-05-28'
+sweet_rides_and_mighty_machines/stang.jpg:
+  :name: Stang
+  :date: '2013-05-26'

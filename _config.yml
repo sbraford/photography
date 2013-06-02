@@ -145,15 +145,15 @@ gallery:
   galleries:
     # "around_town_-_portland,_oregon":
     #   best_image: this_old_house.jpg
-    art_fills_the_void:
-      best_image: art_fills_the_void.jpg
-    flowers_and_trees_of_portland:
-      best_image: pink_on_sky.jpg
-    high_dynamic_range:
-      best_image: the_dock_hdr.jpg
-    people:
-      best_image: jon_ransom_on_hawthorne.jpg
-    "portland,_oregon":
-      best_image: bridge_over_calm_waters.jpg
-    sweet_rides_and_mighty_machines:
-      best_image: paddleboat.jpg
+    # art_fills_the_void:
+    #   best_image: art_fills_the_void.jpg
+    # flowers_and_trees_of_portland:
+    #   best_image: pink_on_sky.jpg
+    # high_dynamic_range:
+    #   best_image: the_dock_hdr.jpg
+    # people:
+    #   best_image: jon_ransom_on_hawthorne.jpg
+    # "portland,_oregon":
+    #   best_image: bridge_over_calm_waters.jpg
+    # sweet_rides_and_mighty_machines:
+    #   best_image: paddleboat.jpg
